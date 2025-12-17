@@ -9,11 +9,12 @@ This JavaScript code finds **all prime numbers** from 2 up to (but not including
 git clone https://github.com/amiraligrr/prime-num-js
 ```
 ## open it
-### Change ONE line only:
+## Change ONE line only:
 
 ```javascript
 const final = 20   // ← CHANGE THIS NUMBER!
 ```
+## after that run this 
 ```bash
 node prime-num.js
 
