@@ -22,4 +22,4 @@ node prime-num.js
 
 ### and then you see the prime numbers!
 ---
-#### Thanks for reading Maid by Amirali Granmayeh
+#### Thanks for reading made by Amirali Granmayeh
